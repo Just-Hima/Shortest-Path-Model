@@ -1,0 +1,1 @@
+[{"source": "A", "target": "B", "weight": 6}, {"source": "A", "target": "D", "weight": 1}, {"source": "B", "target": "D", "weight": 2}, {"source": "B", "target": "E", "weight": 2}, {"source": "B", "target": "C", "weight": 5}, {"source": "D", "target": "E", "weight": 1}, {"source": "E", "target": "C", "weight": 5}]

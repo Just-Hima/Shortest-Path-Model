@@ -1,0 +1,15 @@
+source,target,weight
+A,B,5
+A,C,8
+B,D,6
+B,E,7
+C,F,4
+D,G,3
+E,H,5
+F,I,9
+G,J,2
+H,A,6
+J,C,4
+I,A,3
+D,H,2
+G,C,4
